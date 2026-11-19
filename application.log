@@ -1,0 +1,6 @@
+2026-11-19 12:35:09,262 - INFO - Stock check passed: available=5 requested=2
+2026-11-19 12:35:09,262 - INFO - Total price calculated: price=100.0 quantity=2 total=200.0
+2026-11-19 12:35:09,262 - INFO - Discount applied: total=200.0 percent=10.0 final=180.0
+2026-11-19 18:13:52,166 - INFO - Stock check passed: available=50 requested=20
+2026-11-19 18:13:52,166 - INFO - Total price calculated: price=200.0 quantity=20 total=4000.0
+2026-11-19 18:13:52,166 - INFO - Discount applied: total=4000.0 percent=8.0 final=3680.0
